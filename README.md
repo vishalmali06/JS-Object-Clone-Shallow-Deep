@@ -13,13 +13,11 @@
  ## Examples
 
     See the examples below for detailed explanations and code snippets.
-    ```
+    
 
-3. Create a new JavaScript file called `copy-examples.js`:
+3. Create a new JavaScript file called `copy-examples.js`
 
-```sh
-touch copy-examples.js
-```
+       touch copy-examples.js
 
 4. Open `copy-examples.js` in a text editor and add your code examples:
 
