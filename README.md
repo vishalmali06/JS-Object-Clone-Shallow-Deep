@@ -1,25 +1,25 @@
  # JavaScript Copy Examples
-
+ 
     This repository demonstrates the difference between shallow copy and deep copy in JavaScript.
-
-    ## Shallow Copy
+ 
+ ## Shallow Copy
 
     A shallow copy creates a new object, but does not create deep copies of nested objects. Instead, it copies the references to the nested objects.
 
-    ## Deep Copy
+ ## Deep Copy
 
     A deep copy creates a new object and recursively copies all nested objects, creating entirely new objects for each nested object.
 
-    ## Examples
+ ## Examples
 
     See the examples below for detailed explanations and code snippets.
     ```
 
 3. Create a new JavaScript file called `copy-examples.js`:
 
-    ```sh
-    touch copy-examples.js
-    ```
+```sh
+touch copy-examples.js
+```
 
 4. Open `copy-examples.js` in a text editor and add your code examples:
 
